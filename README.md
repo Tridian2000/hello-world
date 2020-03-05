@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository on GitHub!
+This is my first repository commit on GitHub!
+My name is Mike Bradley and I'm new to all of this.  I mean ALL of this programming stuff.  I don't know if I'm a programmer or wannabe perse.  I know that I really dig PowerShell and am learning to be a Toolmaker in PowerShell so I guess I am a programmer after a fashion.  I mean, PowerShell is a commandline LANGUAGE and programmers use LANGUAGES to program so I suppose on the outside, at the end of the day, when all is evaluated, I am a programmer.  Although I really can't say that yet as I haven't done any really cool PowerShell scripts yet.  That is why I am on GitHub I suppose - to have a place to put my really cool scripts to share with others and hope that I can connect to the community and get some help when I'm stuck on something.  I can help out too, as I learn how all this stuff works.  Anyway, this is my first GitHub repository and my first file in my first repository with my first edit in my first file in my first repository.  Thanks for reading!
+Mike
